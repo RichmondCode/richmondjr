@@ -7,14 +7,14 @@ import {
   AiFillInstagram,
 } from 'react-icons/ai';
 import { FaLinkedinIn } from 'react-icons/fa';
-import dpnew from '../../Assets/dpnew.png';
+import richmond from '../../Assets/richmond.png';
 
 function Home2() {
   return (
     <Container fluid className="home-about-section" id="about">
       <Container>
         <Row>
-          <Col md={8} className="home-about-description">
+          <Col md={9} className="home-about-description">
             <h1 style={{ fontSize: '2.6em' }}>
               LET ME
               {' '}
@@ -33,7 +33,7 @@ function Home2() {
               <br />
               I am fluent in classics like
               <i>
-                <b className="purple"> C, C++, Ruby, Javascript and Kotlin. </b>
+                <b className="purple"> C, C++, Ruby, Java and Kotlin. </b>
               </i>
               <br />
               <br />
@@ -68,9 +68,9 @@ function Home2() {
               </i>
             </p>
           </Col>
-          <Col md={4} className="myAvtar">
+          <Col md={3} className="myAvtar">
             <Tilt>
-              <img src={dpnew} className="img-fluid" alt="avatar" />
+              <img src={richmond} className="img-fluid" alt="avatar" />
             </Tilt>
           </Col>
         </Row>
@@ -86,7 +86,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/arnoldnekemiah"
+                  href="https://github.com/RichmondCode/richmondjr"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/arnoldikonde"
+                  href="https://twitter.com/beteiserichmond"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -108,7 +108,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/arnoldnekemiah/"
+                  href="https://www.linkedin.com/in/beteise-richmond-619664213/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -119,7 +119,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/arnold_nekemiah"
+                  href="https://www.instagram.com/beteiserichmond"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
