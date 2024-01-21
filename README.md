@@ -48,7 +48,7 @@ Welcome to my portfolio project
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://arnoldnek.vercel.app/)
+- [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,11 +74,11 @@ the repository.
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Ikonde Nekemiah Arnold**
+👤 **Beteise Richmond**
 
-- GitHub: [@githubhandle](https://github.com/arnoldnekemiah)
-- Twitter: [@twitterhandle](https://twitter.com/arnoldikonde)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/arnoldnekemiah/)
+- GitHub: [@githubhandle](https://github.com/RichmondCode)
+- Twitter: [@twitterhandle](https://twitter.com/beteiserichmond)
+- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/arnoldnekemiah/](https://www.linkedin.com/in/beteise-richmond-619664213/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,6 +90,7 @@ the repository.
 
 - I will include a Blog section.
 - I will include a Resume section.
+- I will Add projects section
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +100,7 @@ the repository.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/arnoldnekemiah/arnoldnek/issues/new).
+Feel free to check the [issues page](https://github.com/RichmondCode/richmondjr/issues/new).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
