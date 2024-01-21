@@ -78,7 +78,7 @@ the repository.
 
 - GitHub: [@githubhandle](https://github.com/RichmondCode)
 - Twitter: [@twitterhandle](https://twitter.com/beteiserichmond)
-- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/arnoldnekemiah/](https://www.linkedin.com/in/beteise-richmond-619664213/))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/beteise-richmond-619664213/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
