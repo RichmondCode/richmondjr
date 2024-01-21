@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: 'justify' }}>
             Hi Everyone, I am
             {' '}
-            <span className="purple">Ikonde Nekemiah Arnold </span>
+            <span className="purple">Beteise Richmond</span>
             from
             {' '}
             <span className="purple"> Kampala, Uganda.</span>
@@ -45,7 +45,7 @@ function AboutCard() {
             {' '}
           </p>
 
-          <footer className="blockquote-footer">i-nad</footer>
+          <footer className="blockquote-footer">richjr</footer>
         </blockquote>
       </Card.Body>
     </Card>

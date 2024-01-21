@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by i-nad</h3>
+          <h3>Designed and Developed by richjr</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>
@@ -22,14 +22,14 @@ function Footer() {
             {' '}
             {year}
             {' '}
-            Arnold Nekemiah
+            Beteise Richmond
           </h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/arnoldnekemiah"
+                href="https://github.com/RichmondCode"
                 style={{ color: 'white' }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -40,7 +40,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/arnoldikonde"
+                href="https://twitter.com/beteiserichmond"
                 style={{ color: 'white' }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -51,7 +51,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/arnoldnekemiah/"
+                href="https://www.linkedin.com/in/beteise-richmond-619664213/"
                 style={{ color: 'white' }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -62,7 +62,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/arnold_nekemiah"
+                href="https://www.instagram.com/beteiserichmond"
                 style={{ color: 'white' }}
                 target="_blank"
                 rel="noopener noreferrer"

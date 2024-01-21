@@ -33,7 +33,7 @@ function Home2() {
               <br />
               I am fluent in classics like
               <i>
-                <b className="purple"> C, C++, Ruby, Java and Kotlin. </b>
+                <b className="purple"> C, C++, Python,Java and Kotlin. </b>
               </i>
               <br />
               <br />
@@ -53,7 +53,7 @@ function Home2() {
               Whenever possible, I also apply my passion for developing products
               with
               {' '}
-              <b className="purple">Ruby on Rails for Back end Web development</b>
+              <b className="purple">Spring Boot for Back end Web development</b>
               {' '}
               and
               <i>
@@ -86,7 +86,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/RichmondCode/richmondjr"
+                  href="https://github.com/RichmondCode"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

@@ -3,8 +3,8 @@ import { Container, Row, Col } from 'react-bootstrap';
 import './contact.css';
 
 const contactConfig = {
-  YOUR_EMAIL: 'arnoldnek@gmail.com',
-  YOUR_FONE: '+256700388074',
+  YOUR_EMAIL: 'beteiserichmondjr@gmail.com',
+  YOUR_FONE: '+256701860898',
   description:
   'I\'m always interested in hearing about new projects, so if you\'d like to chat please get in touch.',
   YOUR_SERVICE_ID: 'service_id',
@@ -44,7 +44,7 @@ export default function ContactUs() {
             <p>{contactConfig.description}</p>
           </Col>
           <Col lg="7" className="d-flex align-items-center">
-            <form className="contact__form w-100" action="https://formspree.io/f/xgebykvy" method="post">
+            <form className="contact__form w-100" action="https://formspree.io/f/xnqenljv" method="post">
               <Row>
                 <Col lg="6" className="form-group">
                   <input

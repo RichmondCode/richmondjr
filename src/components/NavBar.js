@@ -9,7 +9,7 @@ import { MdContactMail } from 'react-icons/md';
 import {
   AiFillStar,
   AiOutlineHome,
-  AiOutlineFundProjectionScreen,
+  // AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from 'react-icons/ai';
 
@@ -70,7 +70,9 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
+            {/* uncomment the code below to add project section on the navigation panel */}
+
+            {/* <Nav.Item>
               <Nav.Link
                 as={Link}
                 to="/project"
@@ -82,7 +84,7 @@ function NavBar() {
                 {' '}
                 Projects
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
 
             <Nav.Item>
               <Nav.Link
